@@ -1,0 +1,55 @@
+---
+name: Kaine
+level: 15
+classes:
+  - Invoker
+  - Invoker
+  - Invoker
+  - Invoker
+  - Invoker
+  - Witch
+  - Witch
+  - Witch
+  - Fighter
+  - Fighter
+  - Fighter
+  - Fighter
+  - Fighter
+  - Fighter
+  - Fighter
+origins:
+  - TBD
+  - TBD2
+  - TBD3
+ability-scores:
+  strength: 
+    core: 4
+    add: 1
+    origin: 1
+  dexterity:
+    core: 0
+    add: 0
+    origin: 0
+  constitution:
+    core: 3
+    add: 1
+    origin: 1
+  intelligence:
+    core: 0
+    add: 0
+    origin: 0
+  wisdom:
+    core: 1
+    add: 0
+    origin: 0
+  charisma:
+    core: 2
+    add: 1
+    origin: 1
+skills:
+  - Intimidation
+  - Investigation
+  - Perception
+  - Cosmopolitan
+  - Underworld
+  - Sympathy
